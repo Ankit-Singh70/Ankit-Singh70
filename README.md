@@ -12,7 +12,7 @@ I am a **Software Developer** focused on building efficient, real-world solution
 - **Full-Stack:** Developing scalable web applications using the MERN stack.
 
 ### 🔗 Coding Profiles
-[**LeetCode**](https://leetcode.com/u/Ankit_singh70/) | [**GeeksforGeeks**](https://auth.geeksforgeeks.org/user/2k22cse2c68l) | [**InterviewBit**](https://www.interviewbit.com/profile/satyam-dubey_353)
+[**LeetCode**](https://leetcode.com/u/Ankit_singh70/) | [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/ankitsing6iag) | [**InterviewBit**](https://www.interviewbit.com/profile/ankit-singh_472/)
 
 ---
 
@@ -27,16 +27,16 @@ I am a **Software Developer** focused on building efficient, real-world solution
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SatyamD1301&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SatyamD1301&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamD1301&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ankit-Singh70&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ankit-Singh70&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Singh701&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/er-satyam-dubey1301)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/01dubey_satyam)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamd1301@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-singh-533419256)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ankitsingh8878)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit.singh.work88@gmail.com)
 
 [![](https://visitcount.itsvg.in/api?id=SatyamD1301&icon=0&color=0)](https://visitcount.itsvg.in)
